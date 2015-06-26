@@ -1,0 +1,16 @@
+{
+  "name": "phaser-tiled",
+  "version": "1.4.1",
+  "homepage": "https://github.com/ilrein/phaser-tiled",
+  "authors": [
+    "Ilia <ilia.reingold@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
